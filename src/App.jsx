@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import bgVideo from './assets/background.mp4'; 
-import './app.css';
+import './App.css';
 
 // Importe seus componentes
 import Home from './components/Home';
