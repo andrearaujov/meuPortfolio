@@ -14,7 +14,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/meuportfolio/">
       <div className="App">
         {/* Vídeo de fundo */}
         <video autoPlay muted loop className="background-video">
