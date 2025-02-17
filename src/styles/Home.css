@@ -1,0 +1,25 @@
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .profile-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border-color: aliceblue;
+  }
+  
+  h1 {
+    margin-top: 20px;
+    font-size: 36px;
+    color: #ffffff;;
+  }
+  
+  .home-container h2 {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #e4e4e4;
+  }
+  
