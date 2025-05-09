@@ -51,6 +51,12 @@ function Projetos() {
           </a>
         </li>
 
+        <li>
+          <a href="https://github.com/andrearaujov/ProjetoAutoma-oCRMLead" target="_blank" rel="noopener noreferrer">
+            CRM e Recebimento de Lead - Desafio técnico de automação com IA
+          </a>
+        </li>
+
         
       </ul>
     </div>
