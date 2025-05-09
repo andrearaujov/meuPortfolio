@@ -38,6 +38,19 @@ function Projetos() {
             To Do List - Projeto react de uma lista de a fazeres.
           </a>
         </li>
+
+        <li>
+          <a href="https://github.com/andrearaujov/Grafos" target="_blank" rel="noopener noreferrer">
+            Projeto de Grafos com dados massivos.
+          </a>
+        </li>
+
+        <li>
+          <a href="https://github.com/andrearaujov/IA-Python" target="_blank" rel="noopener noreferrer">
+            Projeto em python com IA para identificação de copos e canecas
+          </a>
+        </li>
+
         
       </ul>
     </div>
