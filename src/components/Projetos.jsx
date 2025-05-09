@@ -41,13 +41,13 @@ function Projetos() {
 
         <li>
           <a href="https://github.com/andrearaujov/Grafos" target="_blank" rel="noopener noreferrer">
-            Projeto de Grafos com dados massivos.
+            Trabalho de Grafos - Projeto de Grafos com dados massivos.
           </a>
         </li>
 
         <li>
           <a href="https://github.com/andrearaujov/IA-Python" target="_blank" rel="noopener noreferrer">
-            Projeto em python com IA para identificação de copos e canecas
+            Trabalho com Python e YOLO - Projeto em python com IA para identificação de copos e canecas
           </a>
         </li>
 

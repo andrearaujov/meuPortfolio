@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import bgVideo from './assets/background.mp4'; 
 import './App.css';
 
-// Importe seus componentes
 import Home from './components/Home';
 import SobreMim from './components/SobreMim';
 import SoftSkills from './components/SoftSkills';
